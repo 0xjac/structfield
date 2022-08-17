@@ -3,8 +3,9 @@ package structfield_test
 import (
 	"testing"
 
-	"github.com/uudashr/structfield"
 	"golang.org/x/tools/go/analysis/analysistest"
+
+	"github.com/0xjac/structfield"
 )
 
 func TestAnalyzer(t *testing.T) {

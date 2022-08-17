@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/uudashr/structfield"
+	"github.com/0xjac/structfield"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
